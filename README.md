@@ -99,5 +99,7 @@ Here are some resources I've found helpful:
 
 **Description:** Building a basic Quiz platform with PostgreSQL as the backend database.
 
+
+## Pg Admin DashBoard
 <img width="1710" alt="Screenshot 2024-06-27 at 12 13 37 AM" src="https://github.com/Ravichandra89/PostgreSQL/assets/134200599/2cf8f91b-06b7-4aeb-bd0d-eb18439853ab">
 

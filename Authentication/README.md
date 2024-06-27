@@ -11,4 +11,4 @@
 
 ## PostgreSQL Database
 
-<img width="1710" alt="Screenshot 2024-06-27 at 12 13 37 AM" src="https://github.com/Ravichandra89/PostgreSQL/assets/134200599/0f5ee9fb-e722-4419-a438-407aed896b24">
+<img width="1710" alt="Screenshot 2024-06-27 at 11 30 02 PM" src="https://github.com/Ravichandra89/PostgreSQL/assets/134200599/33739d05-b3f2-406b-93d0-ab82c7c21011">
